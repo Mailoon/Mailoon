@@ -9,7 +9,7 @@ Soy Marlon Gomez Morales, un apasionado desarrollador de software con experienci
 ## Habilidades
 
 - Lenguajes de programación:JAVASCRIPT,JAVA,PHP
-- Frameworks y bibliotecas: REACT
+- Frameworks y bibliotecas: REACT, VUE, ANGULAR < 17
 - Herramientas y tecnologías: GIT,Figma
 
 ## Contacto
